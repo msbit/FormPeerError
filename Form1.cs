@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace FormPeerError
 {
+    class Peer { }
+
     public partial class Form1 : Form
     {
         public Form1()
